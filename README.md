@@ -6,7 +6,7 @@
 This project implements real-time object detection using your webcam with OpenCV and MobileNet SSD. The application can identify and highlight various objects in your camera feed with bounding boxes and labels.
 
 <p align="center">
-  <img src="/api/placeholder/640/360" alt="Object Detection Demo">
+  <img src="demo.webp" alt="Object Detection Demo">
 </p>
 
 ## ✨ Features
@@ -84,10 +84,6 @@ net.setInputSize(320, 230)  # Smaller = faster, Larger = more accurate
 - [OpenCV](https://opencv.org/) for the computer vision library
 - [COCO Dataset](https://cocodataset.org/) for the object classes
 - MobileNet SSD model for efficient object detection
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
