@@ -88,7 +88,6 @@ net.setInputSize(320, 230)  # Smaller = faster, Larger = more accurate
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-- MobileNet SSD model for efficient object detection
 
 ---
 
