@@ -1,8 +1,5 @@
 # 🎥 Real-Time Object Detection 👁️
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.6+-green.svg)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-red.svg)
 
 ## 🚀 Overview
 
@@ -58,8 +55,6 @@ Run the main script to start object detection:
 python object_detection.py
 ```
 
-- Press 'q' to exit the application.
-
 ## 🎮 Controls
 
 - **q**: Quit the application
@@ -84,16 +79,17 @@ net.setInputSize(320, 230)  # Smaller = faster, Larger = more accurate
 4. Bounding boxes and labels are drawn around detected objects
 5. The processed frame is displayed in real-time
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - [OpenCV](https://opencv.org/) for the computer vision library
 - [COCO Dataset](https://cocodataset.org/) for the object classes
+
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 - MobileNet SSD model for efficient object detection
 
 ---
 
-Made with ❤️ by [Aymane Elm]
+Made with ❤️ by Aymane Elm
