@@ -83,7 +83,7 @@ net.setInputSize(320, 230)  # Smaller = faster, Larger = more accurate
 
 - [OpenCV](https://opencv.org/) for the computer vision library
 - [COCO Dataset](https://cocodataset.org/) for the object classes
-
+- MobileNet SSD model for efficient object detection
 
 ## 📝 License
 
